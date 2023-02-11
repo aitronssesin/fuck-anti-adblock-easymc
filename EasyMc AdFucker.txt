@@ -3,4 +3,4 @@
 ! Author: Aitron
 ! RAW: https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
 
-##div[style="background: rgba(78, 78, 78, 0.6); position: fixed; display: flex; align-items: center; justify-content: center; inset: 0px; z-index: 2147483647;"><div style="width: 720px; box-shadow: rgba(52, 52, 52, 0.6) 0px 0px 8px 0px; border-radius: 2px; overflow: hidden; font-size: 0px; display: flex;"]
+##div[style="background: rgba(78, 78, 78, 0.6); position: fixed; display: flex; align-items: center; justify-content: center; inset: 0px; z-index: 2147483647;"]
