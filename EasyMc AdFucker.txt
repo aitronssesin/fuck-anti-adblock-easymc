@@ -2,7 +2,7 @@
 ! Description: Filters for blocking pop-ups and anti-adblock bypass in Easy MC webpage
 ! Author: Aitron
 ! Expires: 1 days
-! RAW: https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
+! RAW: https://raw.githubusercontent.com/aitronssesin/fuck-anti-adblock-easymc/main/EasyMc%20AdFucker.txt
 ! Homepage: https://github.com/aitronssesin/fuck-anti-adblock-easymc
 
 ##div[style="background: rgba(78, 78, 78, 0.6); position: fixed; display: flex; align-items: center; justify-content: center; inset: 0px; z-index: 2147483647;"]
